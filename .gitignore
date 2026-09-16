@@ -1,3 +1,4 @@
-.venv/
+.venu/
+.gradio/
 __pycache__/
 *.pyc
